@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import PText from '../components/PText';
 import Img from '../assets/images/about-page-img.png';
 import Button from '../components/Button';
-import Tag from '../components/Tag';
+
 import AboutInfo from '../components/AboutInfo';
 import Banner from '../components/Banner';
 

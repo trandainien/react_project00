@@ -4,7 +4,7 @@ import AboutSection from '../components/AboutSection';
 import ServiceSection from '../components/ServiceSection';
 import ProjectsSection from '../components/ProjectsSection';
 import TestimonialSection from '../components/TestimonialSection';
-import Footer from '../components/Footer';
+
 import Banner from '../components/Banner';
 
 export default function Home() {
