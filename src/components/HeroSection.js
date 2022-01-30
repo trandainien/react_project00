@@ -169,17 +169,29 @@ export default function HeroSection() {
             <div className="hero__social__text">
               <ul>
                 <li>
-                  <a href="#" target="blank" rel="noreferrer">
+                  <a
+                    href="https://github.com/trandainien/react_project00.git"
+                    target="blank"
+                    rel="noreferrer"
+                  >
                     FB
                   </a>
                 </li>
                 <li>
-                  <a href="#" target="blank" rel="noreferrer">
+                  <a
+                    href="https://github.com/trandainien/react_project00.git"
+                    target="blank"
+                    rel="noreferrer"
+                  >
                     TW
                   </a>
                 </li>
                 <li>
-                  <a href="#" target="blank" rel="noreferrer">
+                  <a
+                    href="https://github.com/trandainien/react_project00.git"
+                    target="blank"
+                    rel="noreferrer"
+                  >
                     LI
                   </a>
                 </li>
